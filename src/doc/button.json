@@ -1,0 +1,17 @@
+{
+    "Name": "Button",
+    "Props": [
+        {
+            "label": "width",
+            "type": "String, Number",
+            "desc": "宽度，默认单位rpx",
+            "default": "undefined",
+            "version": "1.0.0"
+        }
+    ],
+    "Methods": [
+        {
+            "label": "click"
+        }
+    ]
+}
